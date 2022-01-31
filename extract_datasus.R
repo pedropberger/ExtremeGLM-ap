@@ -10,6 +10,7 @@
 #First Author: Wilson Carminatti Benaquio <wilson.benaquio@gmail.com>
 #Adaptations and adjustments: Pedro Pelacani Berger <pedropberger@gmail.com>
 
+#is preferably the first code to be executed
 
 #===============================================================================
 # clean the memory
